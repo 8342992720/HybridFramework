@@ -1,0 +1,4 @@
+download link-----https://www.jenkins.io/download/
+
+password----c47c8ca5749344f49e1234d034dc134a
+Open browser link----localhost:8080/
