@@ -196,20 +196,8 @@ public class functionLibrary {
 		return df.format(date);
 
 	}
-	public static void addition()
-	{
-		System.out.println("hello friends");
-	}
 
-	public static void multipication()
-	{
-		System.out.println("how are you");
-	}
 
-	public static void division()
-	{
-		System.out.println("i am fine");
-	}
 
 
 
