@@ -198,17 +198,17 @@ public class functionLibrary {
 	}
 	public static void addition()
 	{
-		System.out.println("hello world");
+		System.out.println("hello friends");
 	}
 
 	public static void multipication()
 	{
-		System.out.println("hello world");
+		System.out.println("how are you");
 	}
 
 	public static void division()
 	{
-		System.out.println("hello world");
+		System.out.println("i am fine");
 	}
 
 
